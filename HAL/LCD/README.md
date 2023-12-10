@@ -1,0 +1,1 @@
+A liquid-crystal display
