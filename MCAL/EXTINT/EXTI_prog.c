@@ -1,9 +1,4 @@
-/*****************************************/
-/*	Author : Khaled Mohsen				 */
-/*	Date   : 1-7-2022   		   		 */
-/*	Version: 0.1				         */
-/*	File   : EXTI_prog.c	             */
-/*****************************************/
+
 #include "STD_types.h"
 #include "BIT_MATH.h"
 #include "EXTI_int.h"
