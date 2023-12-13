@@ -1,9 +1,4 @@
-/*****************************************/
-/*	Author : Khaled Mohsen				 */
-/*	Date   : 1-7-2022   		   		 */
-/*	Version: 0.1				         */
-/*	File   : GIE_prog.c	                 */
-/*****************************************/
+
 #include "STD_types.h"
 #include "BIT_MATH.h"
 #include "GIE_int.h"
