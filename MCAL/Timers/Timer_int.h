@@ -1,9 +1,3 @@
-/************************************************/
-/* Title       : Timer interface file           */
-/* Author      : Khaled Mohsen                  */
-/* Release     : 1.0                            */
-/* Last Update : Aug 16, 2021                   */
-/************************************************/
 
 #ifndef _TIMER0_INT_H
 #define _TIMER0_INT_H
