@@ -1,9 +1,4 @@
-/*****************************************/
-/*	Author : Khaled Mohsen				 */
-/*	Date   : 1-7-2022   		   		 */
-/*	Version: 0.1				         */
-/*	File   : EXTI_private.h		         */
-/*****************************************/
+
 
 
 #ifndef _EXTI_PRIVATE_H_
