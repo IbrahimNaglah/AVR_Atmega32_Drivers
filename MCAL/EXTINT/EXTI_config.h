@@ -1,9 +1,4 @@
-/*****************************************/
-/*	Author : Khaled Mohsen				 */
-/*	Date   : 1-7-2022   		   		 */
-/*	Version: 0.1				         */
-/*	File   : EXTI_config.h		         */
-/*****************************************/
+
 #ifndef _EXTI_CONFIG_H_
 #define _EXTI_CONFIG_H_
 
