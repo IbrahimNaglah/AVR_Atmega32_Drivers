@@ -1,10 +1,9 @@
-/*****************************************/
-/*	Author : Khaled Mohsen				 */
-/*	Date   : 1-7-2022   		   		 */
-/*	Version: 0.1				         */
-/*	File   : GIE_private.h  	         */
-/*****************************************/
-
+/*
+ * Global Interrupt Driver
+ *
+ *  Created on: Sep 10, 2023
+ *      Author: https://github.com/IbrahimNaglah
+ */
 
 #ifndef _GIE_PRIVATE_H_
 #define _GIE_PRIVATE_H_
