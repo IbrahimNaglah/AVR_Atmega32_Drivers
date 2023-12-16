@@ -1,3 +1,9 @@
+/*
+ * Global Interrupt Driver
+ *
+ *  Created on: Sep 10, 2023
+ *      Author: https://github.com/IbrahimNaglah
+ */
 
 #include "STD_types.h"
 #include "BIT_MATH.h"
