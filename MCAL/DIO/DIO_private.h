@@ -1,5 +1,5 @@
 /*
- * Analog to Digital Convertor Driver
+ * Digital Input Output Driver
  *
  *  Created on: Sep 10, 2023
  *      Author: https://github.com/IbrahimNaglah
