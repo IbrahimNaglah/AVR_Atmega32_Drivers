@@ -5,17 +5,17 @@ This repository hosts a collection of drivers specifically designed for the AVR_
 
 ## Contents
 ### MCAL Drivers
-**ADC Driver:** Enables easy integration and usage of the Analog-to-Digital Converter (ADC) module on the AVR_ATmega32 microcontroller.<br />
-**Timer Driver:** Offers functionalities to configure and manage timers and their associated interrupt routines.<br />
-**Interrupt Driver:** Simplifies interrupt handling and configuration, allowing efficient usage of interrupt-driven functionalities.<br />
-**DIO (Digital I/O) Driver:** Provides an abstraction layer for controlling and managing digital input/output pins with ease.<br />
+**<ins>ADC Driver:</ins>** Enables easy integration and usage of the Analog-to-Digital Converter (ADC) module on the AVR_ATmega32 microcontroller.<br />
+**<ins>Timer Driver:</ins>** Offers functionalities to configure and manage timers and their associated interrupt routines.<br />
+**<ins>Interrupt Driver:</ins>** Simplifies interrupt handling and configuration, allowing efficient usage of interrupt-driven functionalities.<br />
+**<ins>DIO (Digital I/O) Driver:</ins>** Provides an abstraction layer for controlling and managing digital input/output pins with ease.<br />
 
 
 ### HAL Drivers
-**LCD Driver:** Interfacing with Liquid Crystal Displays (LCDs), allowing simplified integration for displaying information.<br />
-**UART Driver:** Facilitates serial communication via the Universal Asynchronous Receiver-Transmitter (UART) module.<br />
-**7_Segment Driver:** Offers functionalities to control 7-segment displays, allowing easy display of numerical information.<br />
-**I2C Driver:** Facilitates communication using the Inter-Integrated Circuit (I2C) protocol, enabling interaction with I2C-compatible devices.<br />
+**<ins>LCD Driver:**</ins> Interfacing with Liquid Crystal Displays (LCDs), allowing simplified integration for displaying information.<br />
+**<ins>UART Driver:**</ins> Facilitates serial communication via the Universal Asynchronous Receiver-Transmitter (UART) module.<br />
+**<ins>7_Segment Driver:</ins>** Offers functionalities to control 7-segment displays, allowing easy display of numerical information.<br />
+**<ins>I2C Driver:</ins>** Facilitates communication using the Inter-Integrated Circuit (I2C) protocol, enabling interaction with I2C-compatible devices.<br />
 
 ## Usage
 These drivers are crafted to enabling faster prototyping for the AVR_ATmega32 microcontroller. Each driver includes comprehensive documentation within its directory to guide on integration and usage.I've tested various applications using these drivers. Please note that the drivers may be modified based on specific application.
