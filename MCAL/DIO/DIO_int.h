@@ -1,3 +1,11 @@
+/*
+ * Analog to Digital Convertor Driver
+ *
+ *  Created on: Sep 10, 2023
+ *      Author: https://github.com/IbrahimNaglah
+ */
+
+
 #ifndef DIO_INIT_H_
 #define DIO_INIT_H_
 
