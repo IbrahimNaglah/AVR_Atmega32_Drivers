@@ -1,3 +1,10 @@
+/*
+ * Digital Input Output Driver
+ *
+ *  Created on: Sep 10, 2023
+ *      Author: https://github.com/IbrahimNaglah
+ */
+
 #include "BIT_math.h"
 #include "STD_types.h"
 #include "DIO_private.h"
